@@ -1,2 +1,2 @@
-# hive_udf
+# hive_udfs
 hive user defined function in newsbreak
